@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dC8BbSGL9edACICTuVkg00Cp2i4MvD+8UWeQfUPZ2iDATFsu5Q8BLVNXdXiXYIVhbzEKqSl2HvKv9/B1vM8ZXw==",
+  "success": true,
+  "projectFilePath": "G:\\Source Files\\C# Files\\YWServerSystem\\FKServer\\FKServer\\FKServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\bin\Debug\FKMaster.exe.config
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\bin\Debug\FKMaster.exe
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\bin\Debug\FKMaster.pdb
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\obj\Debug\FKMaster.csprojAssemblyReference.cache
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\obj\Debug\FKMaster.Properties.Resources.resources
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\obj\Debug\FKMaster.csproj.GenerateResource.cache
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\obj\Debug\FKMaster.csproj.CoreCompileInputs.cache
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\obj\Debug\FKMaster.exe
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\obj\Debug\FKMaster.pdb
+G:\Source Files\C# Files\YWServerSystem\FKMaster\FKMaster\obj\Debug\FKMaster.FKFrom1.resources
